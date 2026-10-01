@@ -11,3 +11,5 @@ public class CarpimTablosu {
 }
              // Bu program for döngüsü kullanarak 5'in çarpım tablosunu 10'dan 1'e doğru geriye doğru yazdırır. Döngüde başlangıç değeri i = 10 alınmış, koşul i >= 1 olarak tutulmuş ve i-- ile her adımda sayaç birer azaltılmıştır.       
         
+
+.
